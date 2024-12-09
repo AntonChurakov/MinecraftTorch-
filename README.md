@@ -3,6 +3,8 @@ Flicker effect for ESP32 + WS2812B
 
 ![image](https://github.com/user-attachments/assets/fd765172-7794-4722-9631-98a7ecf11943)
 
+<video src='https://share.icloud.com/photos/068L_phzbd8_jwAmX2tndOy6w' width=180/>
+
 Это проект переносного светильника на адресных светодиодах в стиле Майнкрафт под MicroPython для ESP32.
 3D модели для печати: https://www.thingiverse.com/thing:5926805
 
